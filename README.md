@@ -281,19 +281,26 @@ Forecasting:
 
 # 💡 Business Recommendation 
 Based on the sales analysis:-
-The business should focus on promoting high-performing products
-Improving inventory management for fast-selling items
-Promote Digital Payments
-Enhancing marketing strategies in regions with strong sales performance
-Offer rewards or discounts to retain high – value and repeat customers
-Analyzing customer purchasing behavior can help create targeted offers 
-Plan for Seasonal Demand
-Improve customer satisfaction
-Increase overall revenue growth
+
+-1️⃣ The business should focus on promoting high-performing products.
+
+-2️⃣ Improving inventory management for fast-selling items.
+
+-3️⃣ Promote Digital Payments.
+
+-4️⃣ Enhancing marketing strategies in regions with strong sales performance.
+
+-5️⃣ Offer rewards or discounts to retain high – value and repeat customers.
+
+-6️⃣ Analyzing customer purchasing behavior can help create targeted offers.
+
+-7️⃣ Plan for Seasonal Demand.
+
+-8️⃣Improve customer satisfaction.
 
 ---
 
-# 🧾 Conculsion
+# 🧾 Analysis
 - 💻 Dell Inspiron and laptop bags generated the highest revenue among all products, making them the top-performing products in terms of revenue contribution.
 
 - 📱 Smartphones are the most sold product category, indicating high customer demand and strong market preference for mobile devices.
@@ -305,6 +312,14 @@ Increase overall revenue growth
 - 👥 Customers C0001 and C0005 are identified as the company’s key customers because of their significant contribution to overall sales and revenue.   
 
 - 📈 The company achieved its highest sales performance during the first four months of the year, indicating strong business activity in the initial phase of the year.  
+
+---
+
+# Screenshots:
+
+<img width="1231" height="686" alt="Screenshot 2026-06-09 171939" src="https://github.com/user-attachments/assets/1bd0b015-fdc8-4006-831a-c23d3123d2c3" />
+
+<img width="1227" height="690" alt="Screenshot 2026-06-09 172048" src="https://github.com/user-attachments/assets/f31c25cd-25ee-40dc-b215-d52589384488" />
 
 ---
 
