@@ -323,6 +323,11 @@ Based on the sales analysis:-
 
 ---
 
+# 🤝 Contributing
+Contributions, suggestions, and feedback are welcome.
+
+---
+
 ## ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub
